@@ -3,7 +3,7 @@
   "displayName": "Frontend Development extension Pack - Charrue",
   "description": "Opinionated extension packs for frontend development and more.",
   "version": "0.0.1",
-  "publisher": "kevin",
+  "publisher": "ckangwen",
   "icon": "images/icon.png",
   "repository": {
     "type": "git",
