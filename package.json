@@ -1,0 +1,49 @@
+{
+  "name": "charrue-extension-pack",
+  "displayName": "Frontend Development extension Pack - Charrue",
+  "description": "Opinionated extension packs for frontend development and more.",
+  "version": "0.0.1",
+  "publisher": "kevin",
+  "icon": "images/icon.png",
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/ckangwen/CodeExtensionPack.git"
+  },
+  "scripts": {
+    "package": "vsce package",
+    "publish": "vsce publish"
+  },
+  "engines": {
+    "vscode": "^1.61.0"
+  },
+  "categories": [
+    "Extension Packs"
+  ],
+  "extensionPack": [
+    "steoates.autoimport",
+    "formulahendry.auto-close-tag",
+    "formulahendry.auto-rename-tag",
+    "formulahendry.code-runner",
+    "streetsidesoftware.code-spell-checker",
+    "dbaeumer.vscode-eslint",
+    "GitHub.copilot",
+    "eamodio.gitlens",
+    "xabikos.JavaScriptSnippets",
+    "techer.open-in-browser",
+    "DominicVonk.parameter-hints",
+    "christian-kohler.path-intellisense",
+    "esbenp.prettier-vscode",
+    "jasonnutter.search-node-modules",
+    "Gruntfuggly.todo-tree",
+    "shardulm94.trailing-spaces",
+    "rbbit.typescript-hero",
+    "pmneo.tsimporter",
+    "vscode-icons-team.vscode-icons",
+    "kisstkondoros.vscode-codemetrics",
+    "ecmel.vscode-html-cs",
+    "Zignd.html-css-class-completion",
+    "jcbuisson.vue",
+    "hollowtree.vue-snippets",
+    "johnsoncodehk.volar"
+  ]
+}
