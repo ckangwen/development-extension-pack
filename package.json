@@ -20,13 +20,13 @@
     "Extension Packs"
   ],
   "extensionPack": [
+    "usernamehw.errorlens",
     "steoates.autoimport",
     "formulahendry.auto-close-tag",
     "formulahendry.auto-rename-tag",
     "formulahendry.code-runner",
     "streetsidesoftware.code-spell-checker",
     "dbaeumer.vscode-eslint",
-    "GitHub.copilot",
     "eamodio.gitlens",
     "xabikos.JavaScriptSnippets",
     "techer.open-in-browser",
@@ -43,7 +43,7 @@
     "ecmel.vscode-html-cs",
     "Zignd.html-css-class-completion",
     "jcbuisson.vue",
-    "hollowtree.vue-snippets",
+    "octref.vetur",
     "johnsoncodehk.volar"
   ]
 }

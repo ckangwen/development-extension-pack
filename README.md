@@ -3,6 +3,7 @@
 Opinionated extension packs for frontend development and more.
 
 
+[Error Lens](https://marketplace.visualstudio.com/items?itemName=usernamehw.errorlens)
 
 [Auto Close Tag](https://marketplace.visualstudio.com/items?itemName=formulahendry.auto-close-tag)
 
@@ -50,6 +51,6 @@ Opinionated extension packs for frontend development and more.
 
 [vue](https://marketplace.visualstudio.com/items?itemName=jcbuisson.vue)
 
-[Vue 3 Snippets](https://marketplace.visualstudio.com/items?itemName=hollowtree.vue-snippets)
+[Vetur](https://marketplace.visualstudio.com/items?itemName=octref.vetur)
 
 [Vue Language Features (Volar)](https://marketplace.visualstudio.com/items?itemName=johnsoncodehk.volar)
